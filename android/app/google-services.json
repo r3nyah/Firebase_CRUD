@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011172088483",
+    "project_id": "crud-7d109",
+    "storage_bucket": "crud-7d109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011172088483:android:4ea0de7fee38c4f686fd16",
+        "android_client_info": {
+          "package_name": "www.smktelkommlg.sch.id.firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011172088483-l3sklhkr8sq09100968pr1nev08165hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlzsqJq0zqN9dC66tmcELa-bQf7-KZALU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011172088483-l3sklhkr8sq09100968pr1nev08165hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
